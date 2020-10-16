@@ -1,6 +1,7 @@
 ### Mes sujets de recherche 1
 
 
+```js
 - Système de réponse aux requêtes en direct - Big Data Source
 - Investigation des données et également espace de stockage DB
 - Stockage d'objets et système d'intégration également dans le Cloud Computing
@@ -21,9 +22,7 @@
 - Accès à la protection de la confidentialité basée sur le cloud également pour l'équilibrage de charge
 - Application Big Data basée sur le cloud également pour la duplication sur chiffré
 - Évaluer les données sur les accidents de la route également à l'aide du cadre d'exploration de données
-
-
-#############################################################################################################################
+```
 
 - T1 Urban Data Analytics for Smart Cities
 
