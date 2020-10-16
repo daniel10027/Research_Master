@@ -22,6 +22,22 @@
 - Accès à la protection de la confidentialité basée sur le cloud également pour l'équilibrage de charge
 - Application Big Data basée sur le cloud également pour la duplication sur chiffré
 - Évaluer les données sur les accidents de la route également à l'aide du cadre d'exploration de données
+
+- Algorithmes d'apprentissage automatique et technologies portables pour la reconnaissance des chutes
+- Construction d'un analyseur morphologique coréen à l'aide d'une stratégie de niveau graphème sans connaissances linguistiques
+- Divergence et convergence sur la fabrication basée sur l'Internet des objets (IoT) dans les intérêts industriels et universitaires
+- Repositionnement des centres K-Means à bisection symétrique pour le clustering Big Data pour une réduction améliorée du calcul de la distance
+- Mouvements de données fiables à l'aide de stratégies de fourniture de bande passante dans des réseaux dédiés
+- Système de détection de changement hiérarchique basé sur le voisin le plus proche évolutif pour la surveillance des cultures
+- Analyse Big Bata à l'aide de réseaux de neurones artificiels pour la reconnaissance des modèles de joueurs dans le Cloud Gaming
+- Détection d'anomalies en ligne dans un environnement collaboratif cloud pour les flux de données à l'aide d'une technique non paramétrique
+- Correspondance de forme pour la détection automatique d'écho d'arc à l'aide du contexte squelette
+- Le cloud computing s'appuie sur les bâtiments sensibles au réseau pour un moniteur non intrusif et une conversion de framework puissante
+- Améliorer la maximisation de l'efficacité de propagation pour les grands réseaux clairsemés dans le modèle d'autorité de flux
+- Génération de candidats de quartier de hachage et méthode de hachage de signature probabiliste sur le Big Data
+- Classification automatisée des comptes Twitter extrémistes à l'aide de fonctionnalités basées sur le réseau et sur le contenu
+- Paradigme des données liées pour connecter l'accès aux API et créer des applications intelligentes basées sur le cloud avec des approches de découverte de -données
+- Adaptation pour la décomposition d'un tenseur PARAFAC parallèle efficace à la rareté des données dans Hadoop
 ```
 
 - T1 Urban Data Analytics for Smart Cities
