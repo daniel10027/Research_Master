@@ -162,4 +162,38 @@ sur les entités rares. En collaboration avec notre équipe, de nouvelles métho
 mises en œuvre et évaluées sur des corpus de  publications scientifiques. 
 Le résultat final est publié sous la forme d'un projet open source bien documenté.
 ```
+#############
 
+- U1
+
+```js
+Détection et identification efficaces des visages dans les systèmes de vidéosurveillance en réseau.
+
+Système de surveillance automatisé basé sur la vision pour détecter les incidents de noyade dans les piscines
+
+Techniques d'apprentissage en profondeur pour la détection et l'évitement d'obstacles dans les voitures sans conducteur.
+
+Suivi d'objets avec Raspberry Pi à l'aide de l'histogramme des dégradés orientés (HOG) et de la machine à vecteurs de support (SVM).
+
+Détection, suivi et comptage des véhicules en temps réel à l'aide de Raspberry-Pi.
+
+Système de détection et de filtrage des intrusions en intérieur utilisant Raspberry Pi
+
+Système de stationnement intelligent basé sur le cloud utilisant Raspberry Pi et apprentissage automatique pour les villes intelligentes
+
+Un système robotique pour un système de surveillance de l'environnement basé sur l'Iot et l'analyse de données utilisant un algorithme d'apprentissage automatique.
+
+Description d'image automatique basée sur Raspberry pi et conversion en parole et texte pour les malvoyants.
+
+Système intelligent de lecture et de facturation des compteurs d'énergie basé sur l'IoT utilisant Raspberry Pi et gestion de l'alimentation à l'aide de l'IA.
+
+Une approche basée sur CNN pour la reconnaissance des fruits et l'estimation des calories basée sur la framboise pi.
+
+Détection des maladies foliaires à base de Raspberry pi à l'aide de KNN et d'un réseau neuronal profond.
+
+Système de surveillance de la somnolence basé sur Raspberry pi utilisant le comportement visuel et l'apprentissage automatique.
+
+Un appareil d'assistance portable pour les personnes aveugles, muettes et sourdes utilisant l'IA.
+
+Une terre agricole intelligente pour la prévention des cultures et la détection des intrusions d'animaux à l'aide de CNN.
+```
